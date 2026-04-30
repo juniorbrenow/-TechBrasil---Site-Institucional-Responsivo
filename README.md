@@ -18,8 +18,3 @@ Site institucional moderno e totalmente responsivo para empresa de tecnologia.
 - JavaScript (Vanilla)
 - Font Awesome 6
 
-## 🚀 Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/site-institucional.git
